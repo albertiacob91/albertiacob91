@@ -22,5 +22,4 @@ Estoy consolidando un stack orientado a empleo junior:
 (Próximamente subiré proyectos de backend/web y Android con documentación completa.)
 
 ## 📫 Contacto
-- Email: tucorreo@...
-- LinkedIn: [pendiente]
+- Email: albeertiacob@gmail.com
