@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hola, soy Albert 👋
 
-<!--
-**albertiacob91/albertiacob91** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy desarrollador junior con formación en **DAM (Desarrollo de Aplicaciones Multiplataforma)**, con enfoque mixto en **desarrollo de aplicaciones** y **desarrollo web**.
 
-Here are some ideas to get you started:
+## 🚀 Tecnologías
+- **Lenguajes:** Java, Kotlin, Python, JavaScript, TypeScript, SQL
+- **Web / Backend:** React, Node.js, Express, NestJS, APIs REST
+- **Android:** Kotlin, Jetpack Compose, Retrofit, MVVM, Room
+- **Bases de datos:** PostgreSQL
+- **Herramientas:** Git, GitHub, Docker
+- **Cloud (básico):** AWS / Azure
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📚 Actualmente
+Estoy consolidando un stack orientado a empleo junior:
+- Backend + APIs REST + PostgreSQL
+- Frontend con React + TypeScript
+- Android con Kotlin + Compose
+- Docker, testing básico y fundamentos cloud
+
+## 🛠️ Proyectos
+**En proceso**  
+(Próximamente subiré proyectos de backend/web y Android con documentación completa.)
+
+## 📫 Contacto
+- Email: tucorreo@...
+- LinkedIn: [pendiente]
